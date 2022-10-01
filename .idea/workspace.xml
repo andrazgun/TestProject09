@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="425b5f88-e5fb-40db-970a-dcfc04b6e0d4" name="Changes" comment="Adding HTML pages">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/html_css_js/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/html_css_js/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/html_css_js/registration.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/html_css_js/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/html_css_js/registration.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/html_css_js/registration.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,6 +74,14 @@
       <option name="presentableId" value="Default" />
       <updated>1664016699330</updated>
     </task>
+    <task id="LOCAL-00001" summary="Adding HTML pages">
+      <created>1664616481690</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664616481690</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

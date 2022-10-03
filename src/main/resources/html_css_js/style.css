@@ -1,11 +1,24 @@
-label {
-    color:red;
+body {
+    background-color: lightgrey;
 }
-
-#passwordConfirmInput {
+label {
+    color:blue;
+}
+/* #passwordInput {
     background-color: yellow;
 }
-
+#passwordConfirmInput {
+    background-color: yellow;
+} */
 .label.tableItems {
     color: green;
+}
+/* td {
+    text-align: right;
+} */
+
+/* Style the submit button */
+#submitForm {
+  background-color: lightgrey;
+  color: orange;
 }

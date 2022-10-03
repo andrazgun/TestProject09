@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="425b5f88-e5fb-40db-970a-dcfc04b6e0d4" name="Changes" comment="New changes after session is over">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/html_css_js/Homework - HTML.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/html_css_js/Homework - HTML/styles.css" afterDir="false" />
+    <list default="true" id="425b5f88-e5fb-40db-970a-dcfc04b6e0d4" name="Changes" comment="Homework - HTML Setup Guide">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/html_css_js/registration.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/html_css_js/registration.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/html_css_js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/html_css_js/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/html_css_js/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/html_css_js/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +100,21 @@
       <option name="project" value="LOCAL" />
       <updated>1664642142783</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Homework - HTML Setup Guide">
+      <created>1664783781880</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1664783781880</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Homework - HTML Setup Guide">
+      <created>1664783897281</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1664783897281</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -127,7 +142,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Adding HTML pages" />
     <MESSAGE value="New changes after session is over" />
-    <option name="LAST_COMMIT_MESSAGE" value="New changes after session is over" />
+    <MESSAGE value="Homework - HTML Setup Guide" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework - HTML Setup Guide" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

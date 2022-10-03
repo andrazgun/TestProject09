@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="425b5f88-e5fb-40db-970a-dcfc04b6e0d4" name="Changes" comment="Adding HTML pages">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/html_css_js/script.js" afterDir="false" />
+    <list default="true" id="425b5f88-e5fb-40db-970a-dcfc04b6e0d4" name="Changes" comment="New changes after session is over">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/html_css_js/Homework - HTML.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/html_css_js/Homework - HTML/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/html_css_js/registration.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/html_css_js/registration.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/html_css_js/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/html_css_js/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,14 +33,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "preferences.sourceCode"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.kotlinCompiler&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="TestProject09" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
       <MavenSettings>
@@ -90,8 +92,26 @@
       <option name="project" value="LOCAL" />
       <updated>1664617654247</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="New changes after session is over">
+      <created>1664642142783</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1664642142783</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -106,6 +126,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Adding HTML pages" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding HTML pages" />
+    <MESSAGE value="New changes after session is over" />
+    <option name="LAST_COMMIT_MESSAGE" value="New changes after session is over" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

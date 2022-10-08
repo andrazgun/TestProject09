@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="425b5f88-e5fb-40db-970a-dcfc04b6e0d4" name="Changes" comment="Homework - HTML Setup Guide">
+    <list default="true" id="425b5f88-e5fb-40db-970a-dcfc04b6e0d4" name="Changes" comment="Homework - Registration update">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com.siit.course/Course03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/html_css_js/registration.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/html_css_js/registration.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/html_css_js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/html_css_js/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/html_css_js/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/html_css_js/style.css" afterDir="false" />
@@ -19,6 +22,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -28,24 +32,35 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2FDBIa4aJhEbYQJGWMdh3IehxYY" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.kotlinCompiler&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "debugger.hotswap"
   }
-}</component>
-  <component name="RunManager">
+}]]></component>
+  <component name="RunManager" selected="Application.CourseApp">
+    <configuration name="CourseApp" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.siit.course.Course03" />
+      <module name="TestProject09" />
+      <option name="PROGRAM_PARAMETERS" value="100 500 700" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestProject09" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
       <MavenSettings>
         <option name="myGeneralSettings" />
@@ -69,6 +84,10 @@
       </MavenSettings>
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Application.CourseApp" />
+      <item itemvalue="Maven.TestProject09" />
+    </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -114,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664783897281</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Homework - Registration update">
+      <created>1664798952632</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1664798952632</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -133,7 +159,13 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -143,7 +175,8 @@
     <MESSAGE value="Adding HTML pages" />
     <MESSAGE value="New changes after session is over" />
     <MESSAGE value="Homework - HTML Setup Guide" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework - HTML Setup Guide" />
+    <MESSAGE value="Homework - Registration update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework - Registration update" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

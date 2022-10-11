@@ -133,7 +133,6 @@ public class Course03 {
 //            else {
 //                System.out.println("Number " + i + "is even");
 //            }
-
         }
         System.out.println("Total numbers of primes are " + countPrime);
 

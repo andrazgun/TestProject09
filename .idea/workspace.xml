@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="425b5f88-e5fb-40db-970a-dcfc04b6e0d4" name="Changes" comment="Course 03 - Java Intro">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com.siit.course/PrimeNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com.siit.course/SumOfNumbers.java" afterDir="false" />
+    <list default="true" id="425b5f88-e5fb-40db-970a-dcfc04b6e0d4" name="Changes" comment="Course 03 - Homework 3 Leap Year">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com.siit.course/Course03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com.siit.course/Course03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com.siit.course/LeapYear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com.siit.course/LeapYear.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com.siit.course/PrimeNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com.siit.course/PrimeNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com.siit.course/SumOfNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com.siit.course/SumOfNumbers.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -148,7 +149,21 @@
       <option name="project" value="LOCAL" />
       <updated>1665227716075</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Course 03 - Homework 1 and 2">
+      <created>1665475773378</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1665475773378</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Course 03 - Homework 3 Leap Year">
+      <created>1665484350948</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1665484350948</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -185,7 +200,9 @@
     <MESSAGE value="Homework - HTML Setup Guide" />
     <MESSAGE value="Homework - Registration update" />
     <MESSAGE value="Course 03 - Java Intro" />
-    <option name="LAST_COMMIT_MESSAGE" value="Course 03 - Java Intro" />
+    <MESSAGE value="Course 03 - Homework 1 and 2" />
+    <MESSAGE value="Course 03 - Homework 3 Leap Year" />
+    <option name="LAST_COMMIT_MESSAGE" value="Course 03 - Homework 3 Leap Year" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

@@ -1,10 +1,11 @@
 package com.siit.course;
 
 public class SumOfNumbers {
-    public static void main(String[] args) {
-
     /* Calculate the sum of the first 100 numbers higher than 0.
     Name the class (and java file) SumOfNumbers. */
+    public static void main(String[] args) {
+
+
         int sum = 0;
         int MAX_NUMBER = 100;
         for (int i = 1; i <= MAX_NUMBER; i++) {

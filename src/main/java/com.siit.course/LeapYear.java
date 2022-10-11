@@ -1,6 +1,6 @@
 package com.siit.course;
 
-import java.util.Scanner;
+// import java.util.Scanner;
 
 public class LeapYear {
     /* Display the number of days in month February from a year between 1900-2016 that is read from keyboard
@@ -11,37 +11,37 @@ public class LeapYear {
 
     public static void main(String[] args) {
 
-        Scanner input= new Scanner(System.in);
+     /*    Scanner input= new Scanner(System.in); //taking input in console
                 System.out.println("Enter year between 1900 and 2016:");
-
-        int year = input.nextInt();
+        int year = input.nextInt(); */
 
         // Using else-if statement
+        int year = 2004;
         // Leap year
-        /* if (year % 400 == 0) {
+         if (year % 400 == 0) {
             System.out.println("In the year" + year + " the number of days in February was 29.");
         }
         // Not a leap year
         else if (year % 100 == 0) {
-            System.out.println("In the year" + year + " the number of days in February was 28.");
+            System.out.println("In the year " + year + " the number of days in February was 28.");
         }
         // Leap year
         else if (year % 4 == 0) {
-            System.out.println("In the year" + year + " the number of days in February was 29.");
+            System.out.println("In the year " + year + " the number of days in February was 29.");
         }
         // Not a leap year
         else {
             System.out.println("Number of days in February is 28");
-        } */
-        // Using logical operators
+        }
+        /* Using logical operators
         // Leap year
         if ((year % 400 == 0) || ((year % 4 == 0) && (year % 100 != 0))) {
-            System.out.println("In the year" + year + " the number of days in February was 29.");
+            System.out.println("In the year " + year + " the number of days in February was 29.");
         }
         // Not a leap year
         else {
-            System.out.println("In the year" + year + " the number of days in February was 28.");
-        }
+            System.out.println("In the year " + year + " the number of days in February was 28.");
+        } */
 
     }
 }

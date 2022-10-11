@@ -34,5 +34,9 @@ public class PrimeNumbers {
         System.out.println("The sum of total prime numbers lower than " + MAX_NUMBER + " is:");
         System.out.println(countPrime);
 
+
+
+
+
     }
 }

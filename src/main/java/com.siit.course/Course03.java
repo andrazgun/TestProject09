@@ -115,7 +115,7 @@ public class Course03 {
 
         System.out.println("suma este " + (MAX_SIZE * (MAX_SIZE +1))/ 2); // ALWAYS use this instead of this "asd"
 
-        final int MAX_NUMBER = 1000000;
+        final int MAX_NUMBER = 100;
         int countPrime = 0;
         for (int i = 2; i < MAX_NUMBER; i++) {
             // i is the current number we test if it is prime :)

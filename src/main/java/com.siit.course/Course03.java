@@ -1,10 +1,20 @@
 package com.siit.course;
 
+
 public class Course03 {
 
     static int x = 0;
 
-    public static void main(String[] args) {
+   public static boolean isPrimeNumber(int n) {
+        for (int i = 2; i < n / 2; i++) {
+            if(n % i == 0) {
+                return false;
+            }
+        }
+        return true;
+    }
+
+    public static void course03(String[] args) {
         final double PI = 3.14;
         final int MAX_SIZE = 100; // naming convention all uppercase split by underscore _
         int y = 1; // primitive
@@ -119,13 +129,7 @@ public class Course03 {
         int countPrime = 0;
         for (int i = 2; i < MAX_NUMBER; i++) {
             // i is the current number we test if it is prime :)
-            boolean isPrime = true;
-            for (int j = 2; j < i / 2; j++) {
-                if (i % j == 0) {
-                    isPrime = false;
-                    break;
-                }
-            }
+            boolean isPrime = isPrimeNumber(i);
             if(isPrime) {
                 System.out.println("Number " + i +" is prime");
                 countPrime++;
@@ -135,7 +139,12 @@ public class Course03 {
 //            }
         }
         System.out.println("Total numbers of primes are " + countPrime);
+        isPrimeNumber(12345);
 
+    }
+
+    public static void main(String[] args) {
+        course03(args);
     }
 
 }

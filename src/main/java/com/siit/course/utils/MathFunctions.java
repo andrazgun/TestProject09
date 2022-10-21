@@ -54,4 +54,23 @@ public class MathFunctions {
         return Math.pow(vertex, 3);
     }
 
+    // Sphere compute volume
+    public static double computeSphereVolume(int sphereRadius) {
+        return (4.0 / 3.0) * Math.PI * Math.pow(sphereRadius, 3);
+    }
+
+    // Pyramid compute volume
+    public static double computePyramidVolume(int baseLength, int baseWidth, int pyramidHeight) {
+        return (((baseLength * baseWidth) * pyramidHeight) / 3);
+    }
+
+    //Torus compute volume
+    public static double computeTorusVolume(int smallRadius, int bigRadius) {
+        return ((Math.PI * Math.pow(smallRadius, 2) * ( 2 * Math.PI * bigRadius)));
+    }
+
+    // Rectangle compute volume
+    public static double computeRectangleVolume(int recLength, int recWidth, int recHeight) {
+        return (recLength * recWidth * recHeight);
+    }
 }

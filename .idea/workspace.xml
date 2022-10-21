@@ -4,19 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="425b5f88-e5fb-40db-970a-dcfc04b6e0d4" name="Changes" comment="Course 03 - Homework 3 Leap Year - update">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com.siit.course/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com.siit.course/CarBrands.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com.siit.course/Course04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com.siit.course/CourseMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com.siit.course/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com.siit.course/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com.siit.course/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com.siit.course/utils/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com.siit.course/utils/MathFunctions.java" afterDir="false" />
+    <list default="true" id="425b5f88-e5fb-40db-970a-dcfc04b6e0d4" name="Changes" comment="Course 04 - Class rework">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/siit/course/homework/ArithmeticCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/siit/course/homework/Author.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/siit/course/homework/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/siit/course/homework/ComputeVolume.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/siit/course/homework/Library.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/siit/course/utils/HomeworkMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com.siit.course/Course03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com.siit.course/Course03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com.siit.course/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/siit/course/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com.siit.course/CarBrands.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/siit/course/CarBrands.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com.siit.course/Course03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/siit/course/Course03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com.siit.course/Course04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/siit/course/Course04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com.siit.course/CourseMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/siit/course/CourseMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com.siit.course/LeapYear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/siit/course/homework/LeapYear.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com.siit.course/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/siit/course/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com.siit.course/PrimeNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/siit/course/homework/PrimeNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com.siit.course/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/siit/course/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com.siit.course/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/siit/course/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com.siit.course/SumOfNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/siit/course/homework/SumOfNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com.siit.course/utils/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/siit/course/utils/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com.siit.course/utils/MathFunctions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/siit/course/utils/MathFunctions.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +70,15 @@
     "settings.editor.selected.configurable": "debugger.hotswap"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.CourseMain">
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.siit.course" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.siit.course" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.HomeworkMain">
     <configuration name="CourseApp" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.siit.course.Course03" />
       <module name="TestProject09" />
@@ -74,12 +90,20 @@
     <configuration name="CourseMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.siit.course.CourseMain" />
       <module name="TestProject09" />
+      <option name="PROGRAM_PARAMETERS" value="50 - 10" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.siit.course.*" />
+          <option name="PATTERN" value="com.siit.course.homework.Course03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeworkMain" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.siit.course.utils.HomeworkMain" />
+      <module name="TestProject09" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -109,6 +133,7 @@
     </configuration>
     <list>
       <item itemvalue="Application.CourseApp" />
+      <item itemvalue="Application.HomeworkMain" />
       <item itemvalue="Application.CourseMain" />
       <item itemvalue="Maven.TestProject09" />
     </list>
@@ -197,7 +222,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665485294447</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Course 04 - Class rework">
+      <created>1666167360525</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1666167360525</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -237,7 +269,8 @@
     <MESSAGE value="Course 03 - Homework 1 and 2" />
     <MESSAGE value="Course 03 - Homework 3 Leap Year" />
     <MESSAGE value="Course 03 - Homework 3 Leap Year - update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Course 03 - Homework 3 Leap Year - update" />
+    <MESSAGE value="Course 04 - Class rework" />
+    <option name="LAST_COMMIT_MESSAGE" value="Course 04 - Class rework" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

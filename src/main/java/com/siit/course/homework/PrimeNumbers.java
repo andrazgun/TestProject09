@@ -1,4 +1,4 @@
-package com.siit.course;
+package com.siit.course.homework;
 
 public class PrimeNumbers {
     /* Display all the prime numbers lower than 1 000 000.

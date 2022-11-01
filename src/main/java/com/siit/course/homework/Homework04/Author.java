@@ -1,4 +1,4 @@
-package com.siit.course.homework;
+package com.siit.course.homework.Homework04;
 
 public class Author {
     String name;

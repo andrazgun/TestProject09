@@ -1,4 +1,4 @@
-package com.siit.course.homework;
+package com.siit.course.homework.Homework03;
 
 // import java.util.Scanner;
 

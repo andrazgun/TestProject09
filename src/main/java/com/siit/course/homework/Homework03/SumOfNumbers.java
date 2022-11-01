@@ -1,4 +1,4 @@
-package com.siit.course.homework;
+package com.siit.course.homework.Homework03;
 
 public class SumOfNumbers {
     /* Calculate the sum of the first 100 numbers higher than 0.

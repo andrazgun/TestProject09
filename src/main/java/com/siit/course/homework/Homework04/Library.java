@@ -1,4 +1,4 @@
-package com.siit.course.homework;
+package com.siit.course.homework.Homework04;
 
 public class Library {
 
@@ -13,12 +13,13 @@ Book book1 = new Book("Acolo unde nu mai e trotuar",
                 "sv@123.com"),
         28);
 
-
-            System.out.println("Book " + book1.name + ", " + book1.price + ", by " + author1.name +
-                    ", published in " + book1.year + ".");
-
+        book1.printBook();
 
 
     }
 
+    public static void main(String[] args) {
+
+            Author();
+    }
 }

@@ -1,6 +1,4 @@
-package com.siit.course.homework;
-
-import com.siit.course.homework.Author;
+package com.siit.course.homework.Homework04;
 
 public class Book {
     String name;
@@ -22,7 +20,7 @@ public class Book {
         return this.name;
     }
 
-    public String getAuthor() {
+    public Author getAuthor() {
         return this.author;
     }
 
@@ -32,5 +30,11 @@ public class Book {
 
     public int getYear() {
         return this.year;
+    }
+
+    public void printBook() {
+
+        System.out.println("Book " + name + ", " + price + ", by " + author.name
+                + ", published in " + year + ".");
     }
 }

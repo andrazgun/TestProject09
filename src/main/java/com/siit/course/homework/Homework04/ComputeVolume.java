@@ -1,4 +1,4 @@
-package com.siit.course.homework;
+package com.siit.course.homework.Homework04;
 import static com.siit.course.utils.MathFunctions.*;
 
 
